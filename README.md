@@ -17,7 +17,9 @@ TODO 5) create scoreboard
 On collision with food the score should increase by some value everytime.
 
 Some conditions when the game should over.
+
 TODO 6) detect collision with wall
 Whenever the snake body collided with the wall the game should over.
+
 TODO 7) detect collision with tail
 The snake head colliding with anyother part of the body leads to game over.
