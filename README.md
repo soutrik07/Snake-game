@@ -1,5 +1,6 @@
 # Snake-game
 The following are the steps into which I have broken the project into-
+
 TODO 1) make snake body
 Here we will make the snake body using the graphics user interface library used turtle.
 
